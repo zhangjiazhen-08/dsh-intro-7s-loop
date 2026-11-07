@@ -6,10 +6,7 @@ Custom intro videos for the DSH plugin `dsh-cinematic-wallpaper`: the startup-sc
 
 ## 文件 / Files
 
-| 文件 | 内容 | 时长 |
-|---|---|---|
-| `dsh-combo-intro.mp4` | startup-screen + 大脸 7 秒开场（拼接版） | 约 27 秒 |
-| `dsh-intro-7s-loop.mp4` | 只有大脸 7 秒开场的部分 | 7 秒 |
+- `dsh-combo-intro.mp4`：startup-screen + 大脸 7 秒开场（拼接版），约 27 秒。
 
 > 视频文件较大，由作者手动上传到本仓库；如仓库里暂时没有，请稍后再看。
 
